@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CountrySearch</string>
+    <string name="details_label">Введите название столицы</string>
+    <string name="answer_label">Результат</string>
+    <string name="city_hint">Столица</string>
+    <string name="country_hint">Страна</string>
+    <string name="search_button">Найти</string>
+</resources>
